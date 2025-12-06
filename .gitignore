@@ -1,7 +1,6 @@
-instance
-layout
-
 # Byte-compiled / optimized / DLL files
+instance
+fakepinterest/layout
 __pycache__/
 *.py[codz]
 *$py.class
@@ -217,3 +216,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.idea
