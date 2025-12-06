@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 instance
-fakepinterest/layout
+fakepinterest/layoutgit
 __pycache__/
 *.py[codz]
 *$py.class
